@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://github.com/MicahDShackelford/MicahDShackelford/blob/main/header.png?raw=true)
 
 <!--
 **MicahDShackelford/MicahDShackelford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
