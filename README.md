@@ -6,7 +6,7 @@
 
 I am a **full-stack software engineer** working in **Nashville, TN** at **TechnologyAdvice**. I enjoy building web applications and tools for developers.
 
-- 🔭 I’m currently working on: Fleet a vCluster wrapper for better local development clusters
+- 🔭 I’m currently working on: **Fleet** a vCluster wrapper for better local development clusters
 - 🌱 I’m currently learning: **Kubernetes** & **Golang**
 - 💬 Ask me about: **PHP**, **Laravel**, **Vue**, or **anything I am working on**
 - 📫 How to reach me: **[@micahshack_](https://twitter.com/micahshack_)** or **micahdshackelford@gmail.com**
