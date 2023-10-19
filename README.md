@@ -16,7 +16,7 @@ Throughout my time as a software engineer I have touched a ton of different lang
 
 ##### Languages
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ##### Libraries/Frameworks
 
@@ -28,4 +28,4 @@ Throughout my time as a software engineer I have touched a ton of different lang
 
 #### Connect with me
 
-[![twitter](https://img.shields.io/badge/Twitter-@micahshack__-blue?style=for-the-badge)](https://twitter.com/micahshack_) [![linkedin](https://img.shields.io/badge/Linkedin-micahdshackelford-blue?style=for-the-badge)](https://www.linkedin.com/in/micahdshackelford/)
+[![email](https://img.shields.io/badge/Email-micahdshackelford@gmail.com-blue?style=for-the-badge)](https://twitter.com/micahshack_) [![linkedin](https://img.shields.io/badge/Linkedin-micahdshackelford-blue?style=for-the-badge)](https://www.linkedin.com/in/micahdshackelford/)
